@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loan Eligibility & Chatbot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Loan Eligibility Checker</h1>
+    <form id="loanForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" required>
+
+      <label for="creditScore">Credit Score:</label>
+      <input type="number" id="creditScore" name="creditScore" required>
+
+      <label for="income">Annual Income:</label>
+      <input type="number" id="income" name="income" required>
+
+      <label for="employmentStatus">Employment Status:</label>
+      <select id="employmentStatus" name="employmentStatus" required>
+        <option value="employed">Employed</option>
+        <option value="self-employed">Self-Employed</option>
+        <option value="unemployed">Unemployed</option>
+      </select>
+
+      <button type="submit">Check Eligibility</button>
+    </form>
+
+    <div id="eligibilityResult" class="result"></div>
+
+    <h2>Chat with the Assistant</h2>
+    <div id="chat">
+      <div id="chatMessages"></div>
+      <form id="chatForm">
+        <input type="text" id="chatInput" placeholder="Type your message..." required>
+        <button type="submit">Send</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
