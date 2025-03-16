@@ -8,3 +8,5 @@ requests==2.26.0
 python-dotenv==0.19.2
 groq
 gunicorn
+werkzeug==2.0.3
+
