@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, request, jsonify, send_file, render_template
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
@@ -1218,4 +1217,4 @@ def text_to_speech():
 
 if __name__ == '__main__':
     app.run(port=3000, debug=True)
->>>>>>> 4acf153747598e77d585f126e455bb534b481ad2
+
