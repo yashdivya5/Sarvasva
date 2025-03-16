@@ -20,6 +20,11 @@ The assistant is built to simplify the loan process within the Indian banking co
 
 ---
 
+## Demonstration Video
+Watch the full system functionality demonstration: [Watch Video](https://drive.google.com/file/d/19Y-WtDmbcXi07LdHjwKukSdD2rwqwn2-/view?usp=sharing)
+
+---
+
 ## ✨ Features
 
 ### 1. Loan Eligibility Check
