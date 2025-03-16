@@ -145,3 +145,9 @@ This project stands as a **user-friendly AI loan advisor** that transforms the l
 For further details or inquiries, please reach out at **yashdivyapatna@gmail.com**.
 
 > If you found this project helpful, please ⭐ the repository!
+
+## Contributors
+- Yash Divya: **yashdivyapatna@gmail.com**
+- Bhaskar Anand: **official.beingbhaskar@gmail.com**
+- Sujal Kumar: **sujalkumar123479@gmail.com**
+- Vaibhav Ghugretkar: **vaibhavghugretkar23@gmail.com**
