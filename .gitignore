@@ -1,2 +1,7 @@
-__/myvenv
+# Ignore virtual environment folder
+/myvenv/
+# or
+myvenv/
+
+# Ignore environment variables file
 .env
